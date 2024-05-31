@@ -8,7 +8,7 @@ Este repositorio contiene el código fuente de un Gestor de presupuesto inicial,
 
 
 ## Demo
-![Home](https://imgur.com/a/DcJ6Yba)
+![Home](https://imgur.com/a/DcJ6Yba.png)
 
 
 ## Requisitos
